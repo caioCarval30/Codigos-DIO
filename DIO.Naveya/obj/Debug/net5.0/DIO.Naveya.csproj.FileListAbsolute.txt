@@ -1,0 +1,16 @@
+C:\Users\caioc\DIO.Naveya\bin\Debug\net5.0\DIO.Naveya.exe
+C:\Users\caioc\DIO.Naveya\bin\Debug\net5.0\DIO.Naveya.deps.json
+C:\Users\caioc\DIO.Naveya\bin\Debug\net5.0\DIO.Naveya.runtimeconfig.json
+C:\Users\caioc\DIO.Naveya\bin\Debug\net5.0\DIO.Naveya.runtimeconfig.dev.json
+C:\Users\caioc\DIO.Naveya\bin\Debug\net5.0\DIO.Naveya.dll
+C:\Users\caioc\DIO.Naveya\bin\Debug\net5.0\ref\DIO.Naveya.dll
+C:\Users\caioc\DIO.Naveya\bin\Debug\net5.0\DIO.Naveya.pdb
+C:\Users\caioc\DIO.Naveya\obj\Debug\net5.0\DIO.Naveya.csproj.AssemblyReference.cache
+C:\Users\caioc\DIO.Naveya\obj\Debug\net5.0\DIO.Naveya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caioc\DIO.Naveya\obj\Debug\net5.0\DIO.Naveya.AssemblyInfoInputs.cache
+C:\Users\caioc\DIO.Naveya\obj\Debug\net5.0\DIO.Naveya.AssemblyInfo.cs
+C:\Users\caioc\DIO.Naveya\obj\Debug\net5.0\DIO.Naveya.csproj.CoreCompileInputs.cache
+C:\Users\caioc\DIO.Naveya\obj\Debug\net5.0\DIO.Naveya.dll
+C:\Users\caioc\DIO.Naveya\obj\Debug\net5.0\ref\DIO.Naveya.dll
+C:\Users\caioc\DIO.Naveya\obj\Debug\net5.0\DIO.Naveya.pdb
+C:\Users\caioc\DIO.Naveya\obj\Debug\net5.0\DIO.Naveya.genruntimeconfig.cache
